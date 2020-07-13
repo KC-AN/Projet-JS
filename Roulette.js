@@ -33,6 +33,8 @@
     {
         i=0;
     }
+       alert(i);
+
     alert(document.images.slide);
 
    
