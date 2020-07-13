@@ -36,8 +36,8 @@
    
     a = setTimeout("diapo()",100);
     
-        alert(document.images.slide.src[3])
-    if(document.images.slide.src=="file:///C:/Users/ndiay/Documents/PROJET%20JS/images/icons8-" + nombreroulette +"-96.png")
+       
+    if(document.images.slide.src=="images/icons8-" + nombreroulette +"-96.png")
     {  
         clearTimeout(a);
         i=0;
