@@ -33,11 +33,9 @@
     {
         i=0;
     }
-
    
     a = setTimeout("diapo()",100);
     
-       
     if(document.images.slide.src=="https://github.com/KC-AN/Projet-JS/tree/master/images/icons8-" + nombreroulette +"-96.png")
     {  
         clearTimeout(a);
