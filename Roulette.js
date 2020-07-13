@@ -34,7 +34,7 @@
         i=0;
     }
 
-    alert(document.slide.src);
+    alert(document.images.slide.src);
 
    
     a = setTimeout("diapo()",100);
