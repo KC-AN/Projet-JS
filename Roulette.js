@@ -40,7 +40,7 @@
     {  
         clearTimeout(a);
         i=0;
-        setTimeout("roulette()",200);
+        setTimeout("roulette()",1000);
     }
     
    
