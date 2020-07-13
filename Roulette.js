@@ -33,9 +33,8 @@
     {
         i=0;
     }
-       alert(i);
 
-    alert(document.images.slide);
+    alert(document.slide.src);
 
    
     a = setTimeout("diapo()",100);
