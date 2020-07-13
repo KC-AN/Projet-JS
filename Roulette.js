@@ -65,7 +65,7 @@ function roulette()
     }
     if (a==nombreroulette)
     {
-        alert("Vous avez gagné "+35*d+" mille francs !");
+        alert("Vous avez gagné "+36*d+" mille francs !");
         b=1*b+36*d;
         c=1*c-1*d;
         document.querySelector("#pmj").value = b ;
