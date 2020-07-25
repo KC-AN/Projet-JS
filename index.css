@@ -19,6 +19,11 @@ li.acd
     
 }
 
+p > a 
+{
+	color: red ;
+}
+
 
 
 h1{
