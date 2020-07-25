@@ -2,6 +2,7 @@ body {
     background-repeat: no-repeat;
     background-image: url("images/close-up-shot-of-a-roulette-3894215.jpg");
     background-size: cover;  
+    margin: 0;
 }
 
 li.acd {
